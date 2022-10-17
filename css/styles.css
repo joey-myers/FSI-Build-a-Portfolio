@@ -1,0 +1,48 @@
+.title {
+    font-size: 40px;
+}
+
+.center {
+    text-align: center;
+
+}
+
+
+.color {
+    height: 7px;
+    width: auto;
+
+}
+.red {
+    background-color: red;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.yellow {
+    background-color: yellow;
+
+}
+
+.green {
+    background-color: green;
+
+}
+
+.blue {
+    background-color: blue;
+
+
+}
+
+.purple {
+    background-color: purple;
+
+}
+
+.About {
+    margin-left: 20%;
+    margin-right: 20%;
+}
